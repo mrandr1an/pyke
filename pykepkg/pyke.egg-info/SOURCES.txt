@@ -1,0 +1,7 @@
+setup.py
+pykepkg/pyke.egg-info/PKG-INFO
+pykepkg/pyke.egg-info/SOURCES.txt
+pykepkg/pyke.egg-info/dependency_links.txt
+pykepkg/pyke.egg-info/entry_points.txt
+pykepkg/pyke.egg-info/requires.txt
+pykepkg/pyke.egg-info/top_level.txt
